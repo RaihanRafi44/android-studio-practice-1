@@ -77,7 +77,7 @@ class HomeFragment : Fragment() {
             listMode = listMode,
             listener = object : OnItemClickedListeners<Catalog> {
                 override fun onItemClicked(item: Catalog) {
-                    /*navigateToDetail(item)*/
+                    navigateToDetail(item)
                 }
             }
         )
@@ -89,8 +89,8 @@ class HomeFragment : Fragment() {
     }
 
 
-    /*private fun navigateToDetail(item: Catalog) {
+    private fun navigateToDetail(item: Catalog) {
         val bundle = bundleOf("catalog" to item)
         findNavController().navigate(R.id.action_homeFragment_to_detailFragment, bundle)
-    }*/
+    }
 }
