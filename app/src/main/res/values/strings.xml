@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Challenge2</string>
+    <string name="text_add_item">Tambah</string>
+    <string name="text_discount_40">Diskon 40% OFF</string>
+    <string name="text_discount_40_promo">Promo diskon hanya berlaku tanggal 10 - 24 April 2024</string>
+    <string name="text_user_name">Hai Raihan</string>
+    <string name="text_welcome_app">Selamat Datang di Cuisine Star</string>
+    <string name="text_category_title">Kategori</string>
+    <string name="text_catalog_title">List Menu</string>
+    <string name="rupiah">%s Rupiah</string>
+    <string name="add_to_cart">Tambah ke Keranjang - %s</string>
+    <string name="location_title_default">Lokasi</string>
+    <string name="address_location">Jl. BSD Green Office Park Jl. BSD Grand Boulevard, Sampora, BSD, Kabupaten Tangerang, Banten 15345</string>
+    <string name="add_to_cart_text">Tambah ke Keranjang - %s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
